@@ -7,4 +7,9 @@ Luis Octavio Cabral Murrieta
 e25309006@utlp.edu.mx 
 
 Edgar Tadeo rocha montaño
-e25309003@utlp.edu.mx 
+e25309003@utlp.edu.mx e25309003@utlp.edu.mx e25309003@utlp.edu.mx e25309003@utlp.edu.mx e25309003@utlp.edu.mx 
+LENGUAJE QUE USAMOS:
+JAVA
+PROGRAMAS QUE OCUPAMOS:
+FIGMA
+REACT
